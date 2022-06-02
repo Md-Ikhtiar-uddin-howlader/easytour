@@ -96,4 +96,4 @@ Simple and varied payment methods satisfy most customers.
 
 **ERD**
 
-![alt text](proposal/erd.jpg)
+![alt text](./proposal/erd.jpeg)
