@@ -1,9 +1,9 @@
 ## Group: 3
-###Topic: EasyTour
+**Topic: EasyTour**
 
 **Name of group members**
 
-####Name & Matric No
+**Name & Matric No**
 
 1. Md Ikhtiar Uddin Howlader (leader) 1834619
 2. Rasel Ahmed 1836247
