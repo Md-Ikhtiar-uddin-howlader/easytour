@@ -1,6 +1,7 @@
 ## Group: 3
 
-[Video presentation link:](https://youtu.be/cQi4enGDsB8)
+**Video presentation link:**
+[Click here](https://youtu.be/cQi4enGDsB8)
 
 **Topic: EasyTour**
 
