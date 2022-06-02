@@ -94,3 +94,6 @@ Simple and varied payment methods satisfy most customers.
 - console.php
 - web.php
 
+**ERD**
+
+![alt text](proposal/erd.jpg)
