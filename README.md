@@ -96,4 +96,33 @@ Simple and varied payment methods satisfy most customers.
 
 **ERD**
 
-![alt text](./proposal/erd.jpeg)
+![ERD](./proposal/erd.jpeg)
+
+**Sequence diagram**
+
+
+![Sequence diagram](./proposal/sequence.jpeg)
+
+**MockUp**
+
+**Home Page**
+
+![Home Page](./proposal/Mockup/homePage1.jpg)
+
+![Home Page](./proposal/Mockup/homePage2.jpg)
+
+**Destination**
+
+![Destination](./proposal/Mockup/destination.png)
+
+**Booking page**
+
+![Booking page](./proposal/Mockup/booking.png)
+
+**About Us**
+
+![About Us](./proposal/Mockup/aboutUs.png)
+
+**Contact Us**
+
+![Contact Us](./proposal/Mockup/contactUs.png)
