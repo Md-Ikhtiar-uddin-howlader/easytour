@@ -1,5 +1,6 @@
 ## Group: 3
-##Topic: EasyTour
+###Topic: EasyTour
+
 **Name of group members**
 
 ####Name & Matric No
